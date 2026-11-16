@@ -1,4 +1,3 @@
-# OrangeHRM-Web-Application-Testing---2026
 # OrangeHRM Web Application – Manual Testing
 
 ## Project Overview
@@ -29,7 +28,6 @@ This project focuses on manual testing of the OrangeHRM demo web application to 
 - Microsoft Excel
 - PostgreSQL
 - SQL
-- Jira
 - Git and GitHub
 
 ## Project Documentation
